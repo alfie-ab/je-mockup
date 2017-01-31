@@ -7735,3 +7735,8 @@ button.close {
     display: none !important;
   }
 }
+
+.home-content {
+  object-fit: cover;
+  display: flex;
+}

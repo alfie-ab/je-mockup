@@ -1,2 +1,11 @@
 @import "customVariables";
 @import "bootstrap.scss";
+
+video {
+
+}
+
+.home-content {
+  object-fit: cover;
+  display: flex;
+}
