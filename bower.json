@@ -1,0 +1,21 @@
+{
+  "name": "je-mockup",
+  "homepage": "https://github.com/alfie-ab/je-mockup",
+  "authors": [
+    "Alfie <alfie_ab@hotmail.co.uk>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}
