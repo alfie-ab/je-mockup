@@ -7738,9 +7738,19 @@ button.close {
 
 .home-content {
   object-fit: cover;
+  overflow: hidden;
 }
 
 img {
   max-width: 100%;
   max-height: 100%;
+}
+
+body {
+  text-align: center;
+}
+
+#home-video {
+  background-image: url("../images/header-bg.mp4");
+  background-size: cover;
 }
