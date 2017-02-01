@@ -7759,3 +7759,11 @@ body {
 #navbar {
   text-align: center;
 }
+
+.container {
+  padding-left: 100px;
+}
+
+.navbar-fixed-top {
+  position: relative;
+}
