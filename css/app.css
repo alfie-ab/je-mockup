@@ -7752,5 +7752,10 @@ body {
 
 #home-video {
   background-image: url("../images/header-bg.mp4");
-  background-size: cover;
+  background-size: 80px 60px;
+  background-repeat: repeat;
+}
+
+#navbar {
+  text-align: center;
 }
