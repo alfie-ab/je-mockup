@@ -4780,6 +4780,7 @@ tbody.collapse.in {
   position: relative;
   min-height: 70px;
   margin-bottom: 20px;
+  border: 1px solid transparent;
 }
 
 .navbar:before, .navbar:after {
@@ -7746,12 +7747,12 @@ img {
 }
 
 body {
-  text-align: center;
   background-color: #f8f8f8;
 }
 
 .container {
   background-color: #FFFFFF;
+  text-align: center;
 }
 
 #home-video {
@@ -7784,4 +7785,31 @@ body {
 
 #footer a {
   text-align: right;
+}
+
+.well {
+  background-color: #0000FF;
+}
+
+.well .item {
+  text-align: left;
+}
+
+.well .carousel-indicators {
+  left: 10%;
+  top: 90%;
+}
+
+.well .carousel-indicators li {
+  margin: 5px;
+  width: 5px;
+  height: 5px;
+}
+
+.well .carousel-indicators ol {
+  margin-top: 100px;
+}
+
+.well h2 {
+  margin-top: 5px;
 }

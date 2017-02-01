@@ -12,12 +12,12 @@ img {
 }
 
 body {
-  text-align: center;
   background-color: #f8f8f8;
 }
 
 .container {
   background-color: #FFFFFF;
+  text-align: center;
 }
 
 #home-video {
@@ -50,5 +50,30 @@ body {
   }
   a {
     text-align: right;
+  }
+}
+
+.well {
+
+  background-color: #0000FF;
+
+  .item {
+    text-align: left;
+  }
+  .carousel-indicators {
+    left: 10%;
+    top: 90%;
+  }
+  .carousel-indicators li {
+    margin: 5px;
+    width: 5px;
+    height: 5px;
+  }
+  .carousel-indicators ol {
+    margin-top: 100px;
+  }
+
+  h2 {
+    margin-top: 5px;
   }
 }
