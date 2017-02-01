@@ -37,3 +37,12 @@ body {
 .navbar-header {
   float: left;
 }
+
+#footer {
+  p {
+    padding-left: 100px;
+  }
+  a {
+    text-align: right;
+  }
+}
